@@ -1,0 +1,228 @@
+{"resume":[
+  {
+    "personal_info": {
+      "name": "Ram Chapagai",
+      "email": "chapagairam@gmail.com",
+      "phone": "555-666-9999",
+      "address": "Pickrington, OH",
+      "linkedin": "https://www.linkedin.com/in/ram-chapagai-713226173/",
+      "github": "https://github.com/reewajc"
+    },
+    "summary": "Full stack Software Application Developer with 7+ years of Experience in Business interaction, Requirement Analysis, Design, Development, Testing, and Documentation phases. Experience in designing and developing multi-tier applications using Java, J2EE, JDBC, Spring, Hibernate, XML, SOAP, REST, HTML, JavaScript, CSS, JSON, and JUnit. Extensive experience in using MVC (Model View Controller) architecture for developing applications using JSP, JavaBeans, and Servlets. Worked on a different Web Application server such as WebLogic, JBoss, Web Sphere, and Tomcat. Extensive experience in different IDEs like Eclipse, IntelliJ, VS Code, and NetBeans. Experience in Object Oriented Analysis and Design (OOAD) techniques using UML in Visio. Proficient in using RDBMS concepts with Oracle, DB2, Postgres and MySQL. Git, GitHub, Azure DevOps, CD/CD, Rally, Jira. Experience in PL/SQL, stored procedures, functions, and SQL Scripts for relational databases. Good communication and analytical skills and a demonstrated ability to handle multiple tasks as well as work independently or in a team. Highly proficient in understanding new technologies and accomplishing projects goals. Good work ethic and willingness to work hard to achieve employer objectives. Extensive experience working in an Agile development environment.",
+
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "Bellevue University",
+        "location": "Lincon, NE",
+        "graduation_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Netjets",
+        "location": "Columbus, OH",
+        "dates": "June 2023 - Present",
+        "responsibilities": [
+          "Developed scalable web applications using React.js and Node.js",
+          "Optimized invoice bundling process using AWS lambda and SQS. Reduced the 6+ hours of processing to under 5 minutes",
+          "Worked with product managers to define project requirements",
+          "Atutomate Service Account Password rotation using Delenia and AWS",
+          "Docuemnted grails application to run locally using Spring servlet",
+          "Use Serverless framework to provision Lambda resources and deployment"
+        ],
+        "environment": [
+          "AWS",
+          "AppSync",
+          "GraphQL",
+          "WebSphere",
+          "CI/CD",
+          "Serverless"
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "American Express",
+        "location": "Phoenix, AX",
+        "dates": "Sep 2020 - June 2023",
+        "responsibilities": [
+          "Developed scalable web applications using React.js and Node.js",
+          "Led a team of developers to deliver project milestones on time",
+          "Collaborated with product managers to define project requirements",
+          "Worked closely with QA team to identify and fix software bugs",
+          "Integrated several REST API for registration, RSVP, payment plans.",
+          "Integrated Redis for managing sessions between multiple pods.",
+          "Worked with dust.js templates to fulfill the business requirement.",
+          "Written unit test using Junit 4 and Mockito to satisfy the code coverage for sonar scan",
+          "Developed the custom Global Exceptional handler using Spring Boot",
+          "Debug, traced, and resolve the production issue using the Splunk and ECP console",
+          "Released the software to the production using XLR template, routed the production to different pods, and tested the BAU functionality",
+          "Worked with BAYA thread modeling to mitigate security vulnerabilities.",
+          "Worked with Vertex to create one data SOR and Business functions.",
+          "Written UI modules using the React library.",
+          "Design and developed REST endpoint using Spring Boot and utilizing API build by other teams.",
+          "Worked with Cloud Object Storage (AWS) and created a jar for easy integration with Spring Boot projects."
+        ],
+        "environment": [
+          "Java 8",
+          "Java 11",
+          "J2EE",
+          "JSP",
+          "Servlets",
+          "SSL",
+          "Spring",
+          "Springboot",
+          "Hibernate",
+          "Tomcat Web Server",
+          "JavaScript",
+          "JSF",
+          "JDBC",
+          "XML",
+          "JUnit",
+          "Jest",
+          "React",
+          "Jira",
+          "Rally",
+          "Oracle",
+          "DB2",
+          "JBoss",
+          "Linux",
+          "AWS",
+          "Openshift",
+          "Splunk"
+        ]
+      },
+      {
+        "title": "Java Developer - contract",
+        "company": "Capital Services",
+        "location": "Sioux Falls, SD",
+        "dates": "Jan 2021 - June 2021",
+        "responsibilities": [
+          "Converted monolithic app architecture to microservices.",
+          "Intergraded API for registration page and deployed to Private Cloud environment using XLR release.",
+          "Involved in requirements analysis, Object-Oriented Design and Coding.",
+          "Used Hibernate as an ORM for data persistence.",
+          "Used various APIs to integrate with the application and business layer.",
+          "Preparation of Hibernate mapping files to perform the O-R mapping and enforce object relationships.",
+          "Worked in Back-end development of the application, involved retrieving the data from the Database.",
+          "Used XML extensively in the process of communicating with several external applications.",
+          "Preparing and executing unit test cases using Junit.",
+          "Preparing and executing integration test cases using Junit.",
+          "Provided Technical Support during various phases of testing like Integration, System and User Acceptance Testing.",
+          "Worked with the QA team to identify and fix software bugs.",
+          "Participated in code reviews and provided constructive feedback",
+          "Worked closely with QA team to identify and fix software bugs"
+        ]
+      },
+      {
+        "title": "J2EE Developer",
+        "company": "CHR Solutions",
+        "location": "Sioux Falls, SD",
+        "dates": "Mar 2020 - Jun 2021",
+        "responsibilities": [
+          "Worked on a different Web Application server such as WebLogic, JBoss, Web Sphere, and Tomcat.",
+          "Used Web services, Web Processing Service (WPS), BPEL, REST extensively for Operations module. Technologies SOAP, WSDL, SAML, XSD, JMS, and MDB are also used.",
+          "Eclipse is used for application development.",
+          "Deployed the packaging on to Web Logic 8.1 application server.",
+          "Contributed to project by working on end-to-end flow - developing JSP's, Servlet, action classes of Spring and database front by writing various SQL queries and Stored Procedures.",
+          "Designed and developed reports using Crystal Reports and JReport.",
+          "Used Java Beans for the required JSP components.",
+          "Built, tested, and debugged JSP Pages for critical modules in the system. Coded the Taglibs to aid front-end JSP pages.",
+          "Deployed the application on the server, including installing MySQL database and setting up JDK and Tomcat.",
+          "Developed supporting JAVA classes that controlled the whole flow of the module as per specifications.",
+          "Involved in the high level and low-level designing of the admin and Info center module.",
+          "Coded the designated Java server pages (JSPs) and associated front-end screens using I3ML as per specifications.",
+          "Involved in client interaction for resolving technical and functional issues daily.",
+          "Developed the user interface layer using spring framework and React."
+        ],
+        "environment": [
+          "Java",
+          "JFC Swing",
+          "J2EE",
+          "JSP",
+          "Servlets",
+          "SSL",
+          "Spring",
+          "Hibernate",
+          "Tomcat Web Server",
+          "JavaScript",
+          "JSF",
+          "AJAX",
+          "JMS",
+          "JDBC",
+          "XML",
+          "JAXB",
+          "XSL",
+          "XSLT",
+          "JUnit",
+          "Oracle",
+          "DB2",
+          "WAS",
+          "Linux"
+        ]
+      },
+      {
+        "title": "Java Developer",
+        "company": "Smithfield Foods",
+        "location": "Sioux Falls, SD",
+        "dates": "July 2017 - Mar 2020",
+        "responsibilities": [
+          "Built, tested, and debugged JSP Pages for critical modules in the system. Coded the Taglibs to aid front-end JSP pages.",
+          "Involved in requirements analysis, Object-Oriented Design, and Coding.",
+          "Scheduled cronjobs to automate the report delivery.",
+          "Used Hibernate as an ORM for data persistence.",
+          "Used various APIs to integrate with the application and business layer.",
+          "Preparation of Hibernate mapping files to perform the O-R mapping and enforce object relationships.",
+          "Working with JMS by using message Queue, Topic to send messages to durable clients and non-durable clients.",
+          "Worked in Back-end development of the application, involved in retrieving the data from the Database.",
+          "Used XML extensively in the process of communicating with several external applications.",
+          "Developed XSLs to customize the display data from XMLs obtained through other systems.",
+          "Used React JS, HTML, JavaScript for front end.",
+          "Preparing and executing unit test cases using J-unit",
+          "Provided Technical Support during various phases of testing like Integration, System and User Acceptance Testing.",
+          "Writing the Unit test cases usage of J-unit to test the application.",
+          "Actively managed, improved, and monitor AWS Cloud infrastructures such as EC2 instance, S3, and RDS and applied backup, patches, and scaling.",
+          "Reduced the cost by 30% by eliminating unnecessary servers and consolidating databases.",
+          "Automated Build and deployment by using Jenkins to reduce human error and accelerate production process."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Python",
+      "Java",
+      "HTML/CSS",
+      "SQL",
+      "AWS",
+      "Data Dog",
+      "GraphQL",
+      "REST",
+      "Git",
+      "Agile Development",
+      "Problem-solving"
+    ],
+    "certifications": "AWS Certified Developer Associate (DEV-CO2)",
+    "languages": ["English (Fluent)"],
+    "references": [
+      {
+        "name": "Jane Smith",
+        "position": "Senior Software Engineer",
+        "company": "Tech Company XYZ",
+        "contact": "janesmith@example.com"
+      },
+      {
+        "name": "Bob Johnson",
+        "position": "Project Manager",
+        "company": "Startup ABC",
+        "contact": "bobjohnson@example.com"
+      }
+    ]
+  }
+]
+}
+
+
+

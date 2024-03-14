@@ -1,0 +1,46 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+  }
+  
+  .section{
+    margin-bottom: 30px;
+    background-color: lightgray;
+  }
+  
+  .sectionHeader {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .subsection {
+    margin-bottom: 20px;
+  }
+  
+  .subsectionHeader {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .subsectionContext {
+    margin-top: 10px;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    margin-bottom: 5px;
+  }
+  
+  .error {
+    font-size: 1.2rem;
+    color: red;
+  }
+
+  
