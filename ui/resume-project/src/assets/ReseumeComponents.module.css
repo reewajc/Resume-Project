@@ -1,46 +1,42 @@
 .container {
-    width: 80%;
-    margin: 0 auto;
-    font-family: Arial, sans-serif;
-    background-color: gray;
-  }
-  
-  .section{
-    margin-bottom: 30px;
-    background-color: lightgray;
-  }
-  
-  .sectionHeader {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .subsection {
-    margin-bottom: 20px;
-  }
-  
-  .subsectionHeader {
-    font-size: 1.2rem;
-    font-weight: bold;
-  }
-  
-  .subsectionContext {
-    margin-top: 10px;
-  }
-  
-  .list {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .list-item {
-    margin-bottom: 5px;
-  }
-  
-  .error {
-    font-size: 1.2rem;
-    color: red;
-  }
+  width: 100%;
+  overflow: hidden;
+}
 
-  
+.section {
+  background-color: #323131;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: calc(100vw - 20px); /* 100vw minus padding */
+  box-sizing: border-box; /* Ensure padding doesn't increase width */
+}
+
+.section:hover {
+  background-color: #e0e0e0;
+}
+
+.sectionHeader {
+  margin: 0;
+}
+
+.active {
+  background-color: #323131; /* Change to whatever color you want for active section */
+}
+
+/* ResumeComponents.module.css */
+
+.bulletList {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listItem {
+  flex: 1 0 25%; /* Four items per row */
+  margin-bottom: 10px;
+}
+

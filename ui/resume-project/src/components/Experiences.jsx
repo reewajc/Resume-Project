@@ -6,7 +6,6 @@ import Experience from "./Experience";
 const Experiences = ({resume}) => { 
   return (
       <div>
-          <h2>Experiences:</h2>
           {resume.map(resume => {
           return resume.experience.map(experience => {
             return  <Experience resume={experience}/>

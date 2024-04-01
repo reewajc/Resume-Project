@@ -16,7 +16,6 @@ const Experience = ({resume}) => {
         </ul>
       </div>
       <div>
-        <h3>Environment:</h3>
         <ul>
           {resume.environment?.map((tech, index) => (
             <li key={index}>{tech}</li>

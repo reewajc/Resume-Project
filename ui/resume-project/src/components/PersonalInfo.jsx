@@ -3,7 +3,6 @@ const PersonalInfo = ({resume}) => {
 
   return (
     <>
-    <h1>Personal info: </h1>
       {resume.map(resume => {
         return (
           <>
