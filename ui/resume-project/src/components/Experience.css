@@ -1,0 +1,62 @@
+.experience {
+    border-bottom: 2px solid #333;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .experience-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .sub-details p {
+    margin: 5px 0;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .experience-responsibilities {
+    margin-top: 20px;
+  }
+  
+  .experience-responsibilities h3 {
+    margin-bottom: 10px;
+  }
+  
+  .experience-responsibilities ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-left: 0; /* Remove default padding */
+  }
+  
+  .experience-responsibilities li {
+    margin-bottom: 5px;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .experience-environment {
+    margin-top: 20px;
+  }
+  
+  .experience-environment h3 {
+    margin-bottom: 10px;
+  }
+  
+  .experience-environment ul {
+    list-style-type: none; /* Remove default list style */
+    padding-left: 0; /* Remove default padding */
+    columns: 6; /* Arrange items in four columns */
+    column-gap: 20px; /* Gap between columns */
+  }
+  
+  .experience-environment li {
+    margin-bottom: 5px;
+    text-align: left; /* Align text to the left */
+  }
+  

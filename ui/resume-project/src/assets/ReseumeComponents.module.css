@@ -15,7 +15,7 @@
 }
 
 .section:hover {
-  background-color: #e0e0e0;
+  background-color: rgb(40, 36, 36);
 }
 
 .sectionHeader {
@@ -29,14 +29,23 @@
 /* ResumeComponents.module.css */
 
 .bulletList {
-  list-style-type: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
+  list-style-type: none; /* Remove default list style */
+  padding-left: 0; /* Remove default padding */
+  columns: 6; /* Arrange items in four columns */
+  column-gap: 20px; /* Gap between columns */
+  text-align: left;
 }
 
-.listItem {
-  flex: 1 0 25%; /* Four items per row */
-  margin-bottom: 10px;
+/* Summary.module.css */
+.summaryContainer {
+  text-align: left; /* Align text to left */
 }
+.summaryText{
+
+}
+
+.summaryText::first-letter {
+  margin-left: 1em; /* Adjust the indentation as needed */
+}
+
 

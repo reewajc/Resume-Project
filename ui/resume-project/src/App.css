@@ -32,9 +32,9 @@ nav ul li:last-child {
 
 nav ul li a {
   text-decoration: none;
-  color: #333;
+  color: #323131;
 }
 
 nav ul li a:hover {
-  color: #666;
+  color: white;
 }
