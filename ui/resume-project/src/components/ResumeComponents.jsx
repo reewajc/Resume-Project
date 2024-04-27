@@ -9,6 +9,7 @@ import Experiences from './Experiences';
 import Skills from './Skills';
 import Summary from './Summary';
 import useResumeService from '../hook/useResumeService';
+import ParticleComponent from './ParticleComponent';
 
 const ResumeComponents = ({ url }) => {
   const { isPending, error, data, isFetching } = useResumeService(url);
@@ -23,6 +24,8 @@ const ResumeComponents = ({ url }) => {
   };
 
   return (
+    <>
+    <ParticleComponent/>
     <div className={styles.container}>
       <section
         className={`${styles.section} ${activeSection === 'personalInfo' && styles.active}`}
@@ -56,6 +59,7 @@ const ResumeComponents = ({ url }) => {
         {activeSection === 'summary' && <Summary resume={data} />}
       </section>
     </div>
+    </>
   );
 };
 

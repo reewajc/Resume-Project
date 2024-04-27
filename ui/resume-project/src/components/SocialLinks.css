@@ -1,0 +1,36 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-icon {
+    font-size: 30px;
+    margin: 0 10px;
+    color: #000; /* Default color */
+  }
+  
+  .facebook {
+    color: #3b5998; /* Facebook color */
+  }
+  
+  .linkedin {
+    color: #0077B5; /* LinkedIn color */
+  }
+  
+  .tiktok {
+    color: #000000; /* TikTok color */
+  }
+  
+  .youtube {
+    color: #FF0000; /* YouTube color */
+  }
+  
+  .github {
+    color: #181717; /* GitHub color */
+  }
+  
+  .social-icon:hover {
+    transform: scale(1.2);
+  }
+  

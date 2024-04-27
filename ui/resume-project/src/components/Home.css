@@ -1,0 +1,47 @@
+.home-container {
+    display: flex;
+    align-items: center; /* Vertically align items */
+  }
+  
+  .profile-image {
+    width: 400px; /* Set width of the image */
+    margin-left: 20px; /* Adjust margin as needed */
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      color: inherit;
+    }
+    100% {
+      opacity: 1;
+      color: transparent;
+    }
+  }
+  
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+      color: transparent;
+    }
+    50% {
+      opacity: 1;
+      color: inherit;
+    }
+    100% {
+      opacity: 0;
+      color: inherit;
+    }
+  }
+  
+  .greeting {
+    animation: fadeIn 3s ease forwards;
+  }
+  
+  .greeting.fade-out {
+    animation: fadeOut 3s ease forwards;
+  }
+  
